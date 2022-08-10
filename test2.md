@@ -1,19 +1,9 @@
-.tt2 {
-  box-sizing: border-box;
-  min-width: 200px;
-  max-width: 980px;
-  margin: 0 auto;
-  padding: 45px;
-}
-
-@media (max-width: 767px) {
-  .markdown-body {
-    padding: 15px;
-  }
-}
-
-
-<article class="tt2">
+<div align="center">
+	<br>
+	<a href="https://ksai15e.github.io/control/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
 # NeuroSkelMeshEvolution
 < img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
@@ -284,4 +274,4 @@
 | 248  | NMO_70558           | 01_M_L_b                                             | Argue             | rat                     | amygdala                  | 116.66°                    | 432                       | 3.05                | 0.2                | 17.96              | 0.93               | 17.71         | 133.78        | 60.00         | 16.55                   | 271698           | 135851             | 6.00                   | 77.30%                        | t         | t           | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image155.png) | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image2.png) |      |      |      |      |      |      |      |
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 
-  </article>
+  </div>
