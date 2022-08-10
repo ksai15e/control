@@ -8,7 +8,7 @@
 
 
 
-<div id="tt2">
+<div class="tt2">
 # NeuroSkelMeshEvolution
 < img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
