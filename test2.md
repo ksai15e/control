@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://ksai15e.github.io/control/blame/main/header.svg">
+	<a href="https://ksai15e.github.io/control/header.svg">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
