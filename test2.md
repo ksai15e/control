@@ -1,4 +1,11 @@
-<style type="text/css"> 
+<!DOCTYPE html5>
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>发发发发发发付付付付付付付付付</title>
+</head>
+<body>
+    <style type="text/css"> 
     .MainDIV  
   {   
      position:absolute;  
@@ -288,3 +295,5 @@
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 
   </div>
+    </body>
+    </html>
