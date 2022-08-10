@@ -1,29 +1,9 @@
-<!DOCTYPE html5>
-<html>
-<head>
-<meta charset="utf-8"> 
-<title>发发发发发发付付付付付付付付付</title>
-</head>
-<body>
-    <style type="text/css"> 
-    .MainDIV  
-  {   
-     position:absolute;  
-     left:0%; 
-     top:0%; 
-     width:50%; 
-     height:50%; 
-     background: #ff5500;
-     overflow-x:auto; 
-     overflow-y:auto; 
-     float: right; 
-     border-style.:solid; 
-     border-width:;  
-     border-color:blue 
-  } 
-</style>
 
-<div  class="maindiv">
+
+
+
+
+
 # NeuroSkelMeshEvolution
 < img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
@@ -294,6 +274,4 @@
 | 248  | NMO_70558           | 01_M_L_b                                             | Argue             | rat                     | amygdala                  | 116.66°                    | 432                       | 3.05                | 0.2                | 17.96              | 0.93               | 17.71         | 133.78        | 60.00         | 16.55                   | 271698           | 135851             | 6.00                   | 77.30%                        | t         | t           | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image155.png) | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image2.png) |      |      |      |      |      |      |      |
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
 
-  </div>
-    </body>
-    </html>
+  
