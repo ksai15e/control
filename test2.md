@@ -1,5 +1,5 @@
 <pre id="tt2" >
-#tt2 {
+.tt2 {
    background:#2d2d2d;
 }
 
@@ -8,7 +8,7 @@
 
 
 
-<div id="tt2"
+<div id="tt2">
 # NeuroSkelMeshEvolution
 < img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
