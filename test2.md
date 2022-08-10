@@ -1,9 +1,8 @@
-<pre id="tt2" >
+
 .tt2 {
    background:rgba(0,0,0,0.5);
 }
 
-</pre>
 
 
 
