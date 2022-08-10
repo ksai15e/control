@@ -1,3 +1,22 @@
+<style type="text/css"> 
+    .MainDIV  
+  {   
+     position:absolute;  
+     left:0%; 
+     top:0%; 
+     width:50%; 
+     height:50%; 
+     background: #ff5500;
+     overflow-x:auto; 
+     overflow-y:auto; 
+     float: right; 
+     border-style.:solid; 
+     border-width:;  
+     border-color:blue 
+  } 
+</style>
+
+<div  class="maindiv">
 # NeuroSkelMeshEvolution
 < img src="media/NeuroSkelMeshEvolution.jpg" rowspan="3" width="400" height="122" alt="NeuroSkelMeshEvolution.jpg"/>
 
@@ -267,3 +286,5 @@
 | 247  | NMO_70557           | 01_M_L_a                                             | Argue             | rat                     | amygdala                  | 115°                       | 221                       | 5.24                | 0.24               | 6.87               | 0.45               | 19.54         | 131.58        | 60.00         | 16.52                   | 227020           | 113510             | 6.00                   | 76.98%                        | t         | t           | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image276.png) | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image167.png) |      |      |      |      |      |      |      |
 | 248  | NMO_70558           | 01_M_L_b                                             | Argue             | rat                     | amygdala                  | 116.66°                    | 432                       | 3.05                | 0.2                | 17.96              | 0.93               | 17.71         | 133.78        | 60.00         | 16.55                   | 271698           | 135851             | 6.00                   | 77.30%                        | t         | t           | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image155.png) | ![img](file:///C:\Users\86180\AppData\Local\Temp\ksohtml\clip_image2.png) |      |      |      |      |      |      |      |
 |      |                     |                                                      |                   |                         |                           |                            |                           |                     |                    |                    |                    |               |               |               |                         |                  |                    |                        |                               |           |             |                                                              |                                                              |      |      |      |      |      |      |      |
+
+  </div>
