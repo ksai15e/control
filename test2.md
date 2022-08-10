@@ -1,7 +1,4 @@
 <pre id="tt2" >
-#tt2 {
-   background:#2d2d2d;
-}
 
 </pre>
 
